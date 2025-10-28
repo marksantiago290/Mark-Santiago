@@ -8,6 +8,7 @@ import Layout from "@layout/Layout"
 import { DarkModeProvider } from "@context/darkModeContext"
 import { ClientIDProvider } from '@context/clientIdContext'
 import { GoogleAnalytics } from "nextjs-google-analytics"
+import { Analytics } from "@vercel/analytics/next"
 
 NProgress.configure({
   easing: "ease",
@@ -41,6 +42,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <Layout>
           {process.env.NODE_ENV === 'production' && <GoogleAnalytics strategy="lazyOnload" />}
           <Component {...pageProps} />
+          <Analytics />
         </Layout>
       </ClientIDProvider>
     </DarkModeProvider>
