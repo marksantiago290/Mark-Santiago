@@ -16,13 +16,13 @@ const pageMeta: PageMeta = {
     title: "Statistics",
     description: "Here are some statistics about me.",
     image: myImage,
-    keywords: "stats, Statistics, statistics page, marksantiago0929 statistics, this year statistics, github statistics",
+    keywords: "stats, Statistics, statistics page, marksantiago2909 statistics, this year statistics, github statistics",
   },
   blogs: {
     title: "Blogs",
     description: "Here, you will find a collection of insightful and informative articles that I have written on various topics. As a passionate writer and avid learner, I believe in the power of sharing knowledge and experiences through the written word.",
     image: blogImage,
-    keywords: "numanibnmazid blog, marksantiago0929 blog, blog, webdev, react, react blog application, django blog applicaiton, programming blogs, top 10 programming blogs, top programming blogs",
+    keywords: "numanibnmazid blog, marksantiago2909 blog, blog, webdev, react, react blog application, django blog applicaiton, programming blogs, top 10 programming blogs, top programming blogs",
   },
   certificates: {
     title: "Certificates",
@@ -46,19 +46,19 @@ const pageMeta: PageMeta = {
     title: "Privacy Policy",
     description: "At mark-santiago.vercel.app, we value and respect your privacy. This Privacy Policy outlines how we collect, use, and protect your personal information when you visit our website.",
     image: myImage,
-    keywords: "Privacy, Privacy Policies, marksantiago0929 privacy policy, numan privacy policy",
+    keywords: "Privacy, Privacy Policies, marksantiago2909 privacy policy, numan privacy policy",
   },
   contact: {
     title: "Contact",
     description: "Do you have something on your mind that you'd like to discuss? Whether it's work-related or simply a casual conversation, I'm here and eager to lend an ear. Please don't hesitate to get in touch with me at any time.",
     image: myImage,
-    keywords: "contact, contact page, marksantiago0929 contact, contact numan",
+    keywords: "contact, contact page, marksantiago2909 contact, contact numan",
   },
   snippets: {
     title: "Snippets",
     description: "These are a collection of snippets I've used in the past and saved. These could be useful to you as well.",
     image: myImage,
-    keywords: "Code, Code Snippets, Snippets, marksantiago0929 code snippets, numan code snippets, snippets code, numan snippets, marksantiago0929 snippets",
+    keywords: "Code, Code Snippets, Snippets, marksantiago2909 code snippets, numan code snippets, snippets code, numan snippets, marksantiago2909 snippets",
   },
 }
 

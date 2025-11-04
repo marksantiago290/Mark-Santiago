@@ -8,7 +8,7 @@ export default function CreateAnIssue() {
         Something went wrong. I know you don't know what's the problem. So Let
         me know by{" "}
         <Link
-          href="https://github.com/marksantiago02/issues/issues/new"
+          href="https://github.com/marksantiago2909/issues/issues/new"
           target="_blank"
           rel="noopener noreferrer"
           className="font-bold underline hover:text-blue-500 "

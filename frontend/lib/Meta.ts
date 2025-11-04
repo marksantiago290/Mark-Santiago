@@ -22,7 +22,7 @@
 //     'Mark Santiago',
 //     'numanibnmazid',
 //     'nmn',
-//     'marksantiago0929',
+//     'marksantiago2909',
 //     'mark-santiago.vercel.app',
 //     'numan blog',
 //     'blog application',
@@ -62,7 +62,7 @@
 //     },
 //     // Others
 //     generator: 'Next.js',
-//     applicationName: 'marksantiago0929',
+//     applicationName: 'marksantiago2909',
 //     authors: [{ name: 'Mark Santiago', url: 'https://www.linkedin.com/in/mark-santiago-147926367/' }],
 //     referrer: 'origin-when-cross-origin',
 //     viewport: {
@@ -90,7 +90,7 @@
 //       title: pageTitle,
 //       description: pageDescription,
 //       url: currentURL,
-//       siteName: 'marksantiago0929',
+//       siteName: 'marksantiago2909',
 //       authors: ['Mark Santiago'],
 //       images: [
 //         {

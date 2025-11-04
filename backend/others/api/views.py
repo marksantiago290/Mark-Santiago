@@ -15,11 +15,11 @@ class NewsletterSubscriptionViewset(GenericViewSet, CreateModelMixin):
         try:
             serializer.is_valid(raise_exception=True)
         except Exception as e:
-            return handle_invalid_serializer(e, message="Failed to subscribe marksantiago0929's newsletter.")
+            return handle_invalid_serializer(e, message="Failed to subscribe marksantiago2909's newsletter.")
 
         self.perform_create(serializer)
 
         return ResponseWrapper(
             data=serializer.data,
-            message="You have successfully subscribed to marksantiago0929's newsletter."
+            message="You have successfully subscribed to marksantiago2909's newsletter."
         )

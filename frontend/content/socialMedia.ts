@@ -7,12 +7,12 @@ const socialMedia: SocialPlatform[] = [
   {
     title: "Telegram",
     Icon: BsTelegram,
-    url: "https://t.me/marksantiago02",
+    url: "https://t.me/marksantiago2909",
   },
   {
     title: "Instagram",
     Icon: AiOutlineInstagram,
-    url: "https://www.instagram.com/marksantiago_0929/",
+    url: "https://www.instagram.com/marksantiago2909/",
   },
   {
     title: "Facebook",
@@ -22,7 +22,7 @@ const socialMedia: SocialPlatform[] = [
   {
     title: "Twitter",
     Icon: BsTwitter,
-    url: "https://www.x.com/marksantiago02",
+    url: "https://www.x.com/marksantiago2909",
   },
   // {
   //   title: "YouTube",
@@ -37,7 +37,7 @@ const socialMedia: SocialPlatform[] = [
   {
     title: "Mail",
     Icon: HiMail,
-    url: "mailto:marksantiago0929@gmail.com",
+    url: "mailto:marksantiago2909@gmail.com",
   }
 ]
 

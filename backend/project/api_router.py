@@ -18,5 +18,5 @@ from blogs.api.routers import *
 from others.api.routers import *
 
 
-app_name = "marksantiago0929_backend_api"
+app_name = "marksantiago2909_backend_api"
 urlpatterns = router.urls

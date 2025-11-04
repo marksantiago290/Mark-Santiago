@@ -2,7 +2,7 @@
 name = "mark-santiago.vercel.app"
 version = "0.1.0"
 description = "Portfolio web application of Mark Santiago"
-authors = ["Mark Santiago <marksantiago0929@gmail.com>"]
+authors = ["Mark Santiago <marksantiago2909@gmail.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
