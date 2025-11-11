@@ -16,5 +16,5 @@ export const profileInfo: ProfileType = {
   facebook: "https://www.facebook.com/profile.php?id=61569628505488&mibextid=ZbWKwL",
   github: "marksantiago290",
   address: "Angeles City, Central Luzon",
-  resume_link: "https://drive.google.com/file/d/1j_2_wchvcCQEHtSbtubf6lcUmjNZTxXL/view?usp=sharing",
+  resume_link: "https://drive.google.com/file/d/1boPT7GWhLc-IG4iwS7CtO4lVV3-hbCME/view?usp=sharing",
 }

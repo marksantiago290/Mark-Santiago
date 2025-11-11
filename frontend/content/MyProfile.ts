@@ -16,7 +16,7 @@ const MyProfile = {
     address: "Block 9 Lot 16 Coral Street Phase 4 Mansfield Sto. Domingo, Angeles City, Central Luzon, Philippines",
     about: "string",
     is_portfolio_user: "string",
-    resume_link: "https://drive.google.com/file/d/1j_2_wchvcCQEHtSbtubf6lcUmjNZTxXL/view?usp=sharing",
+    resume_link: "https://drive.google.com/file/d/1boPT7GWhLc-IG4iwS7CtO4lVV3-hbCME/view?usp=sharing",
     is_active: "string",
     is_staff: "string",
     is_superuser: "string",
